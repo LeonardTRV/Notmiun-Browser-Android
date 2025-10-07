@@ -1,8 +1,10 @@
-google.com
+## Types of versions that haves permissions, if doesn't have then our browser is private.
+
+100.0.1.1-LeonardHinnkaStudiosIsDoReTakeOldApps:
 
 FollowLinks:Yes
 IgnoreSslErrors:Yes
-PromptforPermissio:Yes
+PromptforPermission:Yes
 
 UsesCamera:No
 UsesLocation:No
