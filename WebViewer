@@ -1,0 +1,9 @@
+google.com
+
+FollowLinks:Yes
+IgnoreSslErrors:Yes
+PromptforPermissio:Yes
+
+UsesCamera:No
+UsesLocation:No
+UsesMicrophone:No
